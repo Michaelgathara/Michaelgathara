@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Michael Gathara</h1>
 <h3 align="center">A BSc and MSc in CS student at The University of Alabama at Birmingham</h3>
 
-<p align="left"> <a href="https://twitter.com/michaelgathara" target="blank"><img src="https://img.shields.io/twitter/follow/michaelgathara?logo=twitter&style=for-the-badge" alt="michaelgathara" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/michaelgathara" target="blank"><img src="https://img.shields.io/twitter/follow/michaelgathara?logo=twitter&style=for-the-badge" alt="michaelgathara" /></a> </p> -->
 
 - 👨‍💻 All of my projects are available on [Github](https://michaelgathara.com/github)
 
