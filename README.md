@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available on [Github](https://michaelgathara.com/github)
 
-- 📝 You can find me on [here](https://michaelgathara.com/links)
+- 📝 You can find more of my things on [here](https://michaelgathara.com/links)
 
 - I'm currently working on PL research, but have interests in Medicine, AI and HPC research as well. You can find my publications [here](https://orcid.org/0000-0002-0320-7643)
 <!-- 
