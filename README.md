@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/michaelgathara" target="blank"><img src="https://img.shields.io/twitter/follow/michaelgathara?logo=twitter&style=for-the-badge" alt="michaelgathara" /></a> </p> -->
 
-- 👨‍💻 All of my projects are available on [Github](https://michaelgathara.com/github)
+- 👨‍💻 All of my projects are available here on [Github](https://michaelgathara.com/github)
 
 - 📝 You can find more of my things on [here](https://michaelgathara.com/links)
 
