@@ -7,7 +7,7 @@
 
 - 📝 You can find more of my things on [here](https://michaelgathara.com/links)
 
-- I'm currently working on PL research, but have interests in Medicine, AI and HPC research as well. You can find my publications [here](https://orcid.org/0000-0002-0320-7643)
+- I'm currently working on PL/HPC research under [HARP Lab](https://github.com/harp-lab) and Cardiology research under the Cardiology Department at the UAB Heersink School of Medicine. Still, I am also interested in Medicine, AI, and HCI research. You can find my publications [here](https://orcid.org/0000-0002-0320-7643)
 
 <!-- <p align="center">
   <img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=Michaelgathara&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=gotham&border_color=47f0d7"/>
