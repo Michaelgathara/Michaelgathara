@@ -9,8 +9,10 @@
 
 - I'm currently working on PL/HPC research under [HARP Lab](https://github.com/harp-lab) and Cardiology research under the Cardiology Department at the UAB Heersink School of Medicine. However, I am also interested in Medicine, AI, and HCI research. You can find my publications [here](https://orcid.org/0000-0002-0320-7643)
 
-- I'm working towards my Master's Thesis exploring GPU programming with various projects in Neurosymbolic AI, Programming Languages and ML based AI
-  
+- I'm working towards my Master's Thesis exploring GPU programming with various projects in Programming Languages and ML based AI
+
+- I'll be interning at Apple over the Summer of 2024
+
 - I acquired my BSc in Computer Science from The University of Alabama at Birmingham on December, 2023
 
 <!-- <p align="center">
