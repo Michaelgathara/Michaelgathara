@@ -11,7 +11,7 @@
 
 - I'm working towards my Master's Thesis exploring GPU programming with various projects in Programming Languages and ML based AI
 
-- I'll be interning at Apple over the Summer of 2024
+- I'll be interning at [Apple](https://github.com/apple) for Summer of 2024 on the GPU Software Platforms Team
 
 - I acquired my BSc in Computer Science from The University of Alabama at Birmingham on December, 2023
 
