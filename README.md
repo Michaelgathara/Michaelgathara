@@ -14,6 +14,8 @@
 - I'll be interning at [Apple](https://github.com/apple) for Summer of 2024 on the GPU Software Platforms Team
 
 - I acquired my BSc in Computer Science from The University of Alabama at Birmingham on December, 2023
+  
+- I am going for my MBA - May 2025 and my Master's in CS - Dec 2024
 
 <!-- <p align="center">
   <img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=Michaelgathara&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=gotham&border_color=47f0d7"/>
