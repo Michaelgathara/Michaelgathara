@@ -6,7 +6,7 @@
 - 📝 You can find more of my things on [here](https://michaelgathara.com/links)
 
 - I'm currently working on PL/HPC research under [HARP Lab](https://github.com/harp-lab). However, I am also interested in Medicine, AI, and HCI research. You can find my publications [here](https://orcid.org/0000-0002-0320-7643)
-- - I 
+- - I worked in Cardiology and Optometry research for quite a while in undergrad as well
 
 - I'll be interning at [Apple](https://github.com/apple) for Summer of 2024 on the GPU Software Platforms Team
 
