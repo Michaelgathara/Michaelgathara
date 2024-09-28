@@ -12,4 +12,4 @@
 
 - I acquired my BSc in Computer Science from The University of Alabama at Birmingham on December 2023
   
-- I am going for my MBA - May 2025 and my Master's in CS - Dec 2024
+- I am going for my MBA and my Master's in CS - Apr 2025
