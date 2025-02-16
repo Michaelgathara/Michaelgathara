@@ -8,7 +8,11 @@
 - I'm currently working on PL/HPC research under [HARP Lab](https://github.com/harp-lab). However, I am also interested in Medicine, AI, and HCI research. You can find my publications [here](https://orcid.org/0000-0002-0320-7643)
   - I worked in Computational Cardiology and Computational Optometry research for quite a while in undergrad as well
 
-- I'll be interning at [Apple](https://github.com/apple) for Summer of 2024 on the GPU Software Platforms Team
+- I've interned at some cool companies and worked on cool stuff
+  - [Apple](https://github.com/apple) GPU Software Platforms Team
+  - [EDPA](edpa.org) Core Machine Learning
+  - [Central Six](centralsix.org) Data Science
+  - [DarkTower](getdarktower.com) Threat Intelligence Tooling
 
 - I acquired my BSc in Computer Science from The University of Alabama at Birmingham on December 2023
   
