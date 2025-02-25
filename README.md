@@ -12,7 +12,7 @@
   - [EDPA](edpa.org) Core Machine Learning 
   - [Central Six](centralsix.org) Core Data Science
   - [DarkTower](getdarktower.com) Threat Intelligence Tooling
-  - **UAB Optometry** Computational Optometry - Published [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xBCeeoAAAAAJ&citation_for_view=xBCeeoAAAAAJ:u5HHmVD_uO8C)
+  - **UAB Optometry** Data Exploration Tooling - Published [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xBCeeoAAAAAJ&citation_for_view=xBCeeoAAAAAJ:u5HHmVD_uO8C)
   - **UAB Cardiology** Data Collection and Cleaning Tooling
 
 - I acquired my BSc in Computer Science from The University of Alabama at Birmingham on December 2023
