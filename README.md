@@ -15,6 +15,8 @@
   - **UAB Optometry** Data Exploration Tooling - Published [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xBCeeoAAAAAJ&citation_for_view=xBCeeoAAAAAJ:u5HHmVD_uO8C)
   - **UAB Cardiology** Data Collection and Cleaning Tooling
 
-- I acquired my BSc in Computer Science in December 2023
+- BSc in Computer Science | Jan 2021 - Dec 2023
   
-- I am going for my MBA and my Masters' in CS - May 2025
+- MSc in Computer Science | Jan 2023 - May 2025
+  
+- MBA | Apr 2024 - May 2025
