@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Michael Gathara</h1>
-<h3 align="center">A MSc in CS & MBA student</h3>
+<h3 align="center">MSc in CS & MBA | SWE & MLE</h3>
 
 - 👨‍💻 All of my projects are available here on [Github](https://michaelgathara.com/github)
 
