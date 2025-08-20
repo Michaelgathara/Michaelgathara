@@ -2,6 +2,7 @@
 <h3 align="center">MSc in CS & MBA | SWE & MLE</h3>
 
 - 👨‍💻 All of my projects are available here on [Github](https://michaelgathara.com/github)
+- I also post projects under [Q2 Development](https://michaelgathara.com/q2-dev/) and for most of my ML/LLM stuff at [PUFAI](https://michaelgathara.com/pufai)
 
 - 📝 You can find out more about me on my site: [michaelgathara.com/links](https://michaelgathara.com/links)
 
