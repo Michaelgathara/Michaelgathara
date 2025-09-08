@@ -13,8 +13,8 @@
   - [EDPA](edpa.org) Core Machine Learning 
   - [Central Six](centralsix.org) Core Data Science
   - [DarkTower](getdarktower.com) Threat Intelligence Tooling
-  - **UAB Optometry** Data Exploration Tooling - Published [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xBCeeoAAAAAJ&citation_for_view=xBCeeoAAAAAJ:u5HHmVD_uO8C)
-  - **UAB Cardiology** Data Collection and Cleaning Tooling
+  - [UAB Optometry](https://www.uab.edu/optometry/home/) Data Exploration Tooling - Published [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xBCeeoAAAAAJ&citation_for_view=xBCeeoAAAAAJ:u5HHmVD_uO8C)
+  - [UAB Cardiology](https://www.uab.edu/medicine/cardiovascular/) Data Collection and Cleaning Tooling
 
 - BSc in Computer Science | Jan 2021 - Dec 2023
   
