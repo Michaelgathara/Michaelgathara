@@ -6,10 +6,11 @@
 
 - 📝 You can find out more about me on my site: [michaelgathara.com/links](https://michaelgathara.com/links)
 
-- I'm currently working on PL/HPC research under [HARP Lab](https://github.com/harp-lab). However, I am also interested in Medicine, AI, and HCI research. You can find my publications [here](https://orcid.org/0000-0002-0320-7643)
+- I'm worked on PL/HPC research under [HARP Lab](https://github.com/harp-lab). However, I am also interested in Medicine, AI, and HCI research. You can find my publications [here](https://orcid.org/0000-0002-0320-7643)
 
 - I've interned at some incredible companies and worked on some cool stuff
-  - [Apple](https://github.com/apple) GPU Software Platforms 
+  - [Apple](https://github.com/apple) GPU Software Platforms
+  - [HARP Lab](https://github.com/harp-lab) Programming Languages/High-Performance Computing Research 
   - [EDPA](edpa.org) Core Machine Learning 
   - [Central Six](centralsix.org) Core Data Science
   - [DarkTower](getdarktower.com) Threat Intelligence Tooling
