@@ -9,6 +9,8 @@
 - I'm worked on PL/HPC research under [HARP Lab](https://github.com/harp-lab). However, I am also interested in Medicine, AI, and HCI research. You can find my publications [here](https://orcid.org/0000-0002-0320-7643)
 
 - I've interned at some incredible companies and worked on some cool stuff
+  - [Apple](https://github.com/apple) APX Full-Stack Engineering
+  - [Motion](https://motion.com) Full-Stack Engineering for motion.com
   - [Apple](https://github.com/apple) GPU Software Platforms
   - [HARP Lab](https://github.com/harp-lab) Programming Languages/High-Performance Computing Research 
   - [EDPA](edpa.org) Core Machine Learning 
