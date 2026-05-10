@@ -2,14 +2,14 @@
 <h3 align="center">MSc in CS & MBA | SWE & MLE</h3>
 
 - 👨‍💻 All of my projects are available here on [Github](https://michaelgathara.com/github)
-- I also post projects under [Q2 Development](https://michaelgathara.com/q2-dev/) and for most of my ML/LLM stuff at [PUFAI](https://michaelgathara.com/pufai)
+- I also post projects under [Q2 Development](https://michaelgathara.com/q2-dev/) and some of my ML/LLM stuff at [PUFAI](https://michaelgathara.com/pufai)
 
 - 📝 You can find out more about me on my site: [michaelgathara.com/links](https://michaelgathara.com/links)
 
-- I'm worked on PL/HPC research under [HARP Lab](https://github.com/harp-lab). However, I am also interested in Medicine, AI, and HCI research. You can find my publications [here](https://orcid.org/0000-0002-0320-7643)
+- I'm worked on PL/HPC research under [HARP Lab](https://github.com/harp-lab). However, I am also interested in Medicine, Business, AI, and HCI research. You can find my publications [here](https://orcid.org/0000-0002-0320-7643)
 
 - I've work at some incredible companies and on some cool stuff
-  - [Apple](https://github.com/apple) APX Full-Stack Engineering
+  - [Apple](https://github.com/apple) APX Full-Stack Engineering (current)
   - [Motion](https://motion.com) Full-Stack Engineering for motion.com
   - [Apple](https://github.com/apple) GPU Software Platforms
   - [HARP Lab](https://github.com/harp-lab) Programming Languages/High-Performance Computing Research 
