@@ -6,10 +6,9 @@
 
 - 📝 You can find out more about me on my site: [michaelgathara.com/links](https://michaelgathara.com/links)
 
-- I'm worked on PL/HPC research under [HARP Lab](https://github.com/harp-lab). However, I am also interested in Medicine, Business, AI, and HCI research. You can find my publications [here](https://orcid.org/0000-0002-0320-7643)
+- I currently work at [Apple](https://github.com/apple) under ASE APX Full-Stack Engineering building internal tools powering data ingestion for Apple services
 
-- I've work at some incredible companies and on some cool stuff
-  - [Apple](https://github.com/apple) APX Full-Stack Engineering (current)
+- I've worked at some incredible companies and on some cool stuff
   - [Motion](https://motion.com) Full-Stack Engineering for motion.com
   - [Apple](https://github.com/apple) GPU Software Platforms
   - [HARP Lab](https://github.com/harp-lab) Programming Languages/High-Performance Computing Research 
@@ -18,6 +17,8 @@
   - [DarkTower](getdarktower.com) Threat Intelligence Tooling
   - [UAB Optometry](https://www.uab.edu/optometry/home/) Data Exploration Tooling - Published [paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xBCeeoAAAAAJ&citation_for_view=xBCeeoAAAAAJ:u5HHmVD_uO8C)
   - [UAB Cardiology](https://www.uab.edu/medicine/cardiovascular/) Data Collection and Cleaning Tooling
+
+- You can find my linkedin [here](https://michaelgathara.com/linkedin) and my twitter/X [here](https://michaelgathara.com/twitter)
 
 - BSc in Computer Science | Jan 2021 - Dec 2023
   
