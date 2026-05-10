@@ -4,8 +4,6 @@
 - All of my projects are available here on [Github](https://michaelgathara.com/github)
 - I also post projects under [Q2 Development](https://michaelgathara.com/q2-dev/) and some of my ML/LLM stuff at [PUFAI](https://michaelgathara.com/pufai)
 
-- You can find out more about me on my site: [michaelgathara.com/links](https://michaelgathara.com/links)
-
 - I currently work at [Apple](https://github.com/apple) under ASE APX Full-Stack Engineering building internal tools powering data ingestion for Apple services
 
 - I've worked at some incredible companies and on some cool stuff
@@ -25,3 +23,5 @@
 - MSc in Computer Science | Jan 2023 - May 2025
   
 - MBA | Apr 2024 - May 2025
+
+- You can find out more about me on my site: [michaelgathara.com/links](https://michaelgathara.com/links)
